@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgrey;
+}
+
+main{
+    align-items: center;
+    margin: 0% 15% 0% 22%;
+}
+
+aside{
+
+}
+
+footer{
+    margin: 0% 22%;
+    text-align: center;
+    clear: both;
+    padding: 1% 4%;
+    background-color: rgb(126, 123, 123);
+}
+
+.postPai{
+    float: left;
+}
+
+.sidebarPai{
+    margin-left: 4%;
+    float: left;
+}
+
+.cabeçalho{
+    text-align: center;
+    background-color: rgb(255, 136, 0);
+}
+
+.texto{
+    color: white;
+}
+
+.post{
+    margin: 3% 0%;
+    padding: 3%;
+    background-color: white;
+    max-width: 35vw;
+}
+
+.hyperTexto{
+    color: white;
+}
+
+.tituloPost{
+    color: rgb(255, 136, 0);
+}
+
+.sidebar{
+    margin: 7% 0%;
+    padding: 2%;
+    width: 15.8vw;
+    background-color: white;
+}
+
+.sidebarA{
+    text-align: left;
+    padding: 5% 0;
+}
+
+a.hyperTexto{
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+a.sidebar{
+    padding: 0.5% 0%;
+    color: rgb(255, 136, 0);
+}
+
+h4.titulo{
+    padding: 1%;
+    background-color: rgb(182, 182, 182);
+    color: rgb(59, 59, 59);
+}
+
+h4.conteudoPost{
+    text-align: left;
+}
+
+h1{
+    display: inline;
+    color: white;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+nav a{
+    padding: 1%;
+}
+
+a{
+    color: rgb(255, 136, 0);
+}
+
+hr{
+    margin: 1% 0;
+}
+
